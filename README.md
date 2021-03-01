@@ -4,6 +4,8 @@
 
 - google colab でちまちまやった
 
+- gifは解像度1/4にした版。mp4版はもう少しきれい
+
   
 
 ![demo](generated-03-01-2021_12-42-20_conv2.gif)
